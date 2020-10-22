@@ -1,4 +1,4 @@
-package academy.learnprogramming.section01;
+package academy.learnprogramming.section03;
 
 public class HelloWorld {
 
