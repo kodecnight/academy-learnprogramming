@@ -1,6 +1,4 @@
-package academy.learnprogramming.section01;
-
-import java.sql.SQLOutput;
+package academy.learnprogramming.section03;
 
 public class Operators {
     public static void main(String[] args) {
